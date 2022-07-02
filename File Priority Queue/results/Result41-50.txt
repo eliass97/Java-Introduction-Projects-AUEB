@@ -1,0 +1,2 @@
+B -> Average AWT: 415282 | Average MWT: 2888226
+C -> Average AWT: 873004 | Average MWT: 2908227

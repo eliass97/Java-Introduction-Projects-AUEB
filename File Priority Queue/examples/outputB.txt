@@ -1,0 +1,5 @@
+t= 15, completed file 1
+t= 18, completed file 3
+t= 118, completed file 2
+Average waiting time = 6
+Maximum waiting time = 13, achieved by file 2
